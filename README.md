@@ -10,4 +10,4 @@ A bare-bones image printing application with the following presets:
 
 Usage: drag image on EXE application using Windows Explorer or specify image list on command line
 
-Use case: Real the project title :)
+Use case: read the project title :)
